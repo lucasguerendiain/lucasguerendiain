@@ -23,7 +23,11 @@
 
 
 
-### Sobre mi:  
+### Sobre mi:
+-Soy un Programador Full-stack, orientado al diseño Front-End.
+Mis primeros pasos en la programación se dieron en los lenguajes Pascal y C++, mientras estudiaba ingeniería en sistemas, carrera que terminé abandonando luego de un año. Desde ahí continúe aprendiendo las bases de otros lenguajes como Python y JavaScript en la facultad de informática de la UNLP.
+Debido a la sensación de falta de progreso personal, decidí unirme al curso Full-Stack developer de Henry, del cual me gradué.
+Busco no solo el mantener una fuente de ingresos estable, sino también mejorar mis capacidades para poder crear y/o participar de proyectos de los cuales sentirme orgulloso.
 - ⚡ Juego y colecciono Magic the Gathering  
   
 
